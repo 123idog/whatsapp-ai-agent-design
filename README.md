@@ -42,7 +42,7 @@ WhatsApp Business API (via a BSP) · Messenger / Instagram · n8n · Gemini / Op
 
 ## About
 
-Written by **Ido Guy**, AI Engineer. I build production conversational AI for sales and customer-service teams, with a focus on Hebrew and Arabic.
+Written by **Ido Guy**, AI & Automation Engineer. I design end-to-end AI solutions for sales and operations teams, including production AI agents in Hebrew and Arabic.
 
 [LinkedIn](https://www.linkedin.com/in/ido-guy) · Also: [n8n Production Playbook](https://github.com/123idog/n8n-production-playbook) · [Claude Code for Automation Engineers](https://github.com/123idog/claude-code-for-automation-engineers)
 
